@@ -1,1 +1,0 @@
-{"version":3,"sources":["../src/index.js"],"names":[],"mappings":";;AAAA,IAAI,EAAE,GAAG,OAAO,CAAC,IAAI,CAAC,CAAC;;AAEvB,CAAC,CAAC,EAAE,CAAC,QAAQ,CAAC","file":"index.js","sourcesContent":["var fs = require('fs');\n\n!!fs.readFile;"]}

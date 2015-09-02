@@ -1,3 +1,3 @@
-var fs = require('fs');
+import bar from './model/bar';
 
-!!fs.readFile;
+console.log(bar());

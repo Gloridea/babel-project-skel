@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ProjectTasksOptions">
-    <TaskOptions isEnabled="true">
+    <TaskOptions isEnabled="false">
       <option name="arguments" value="--source-maps --out-file output/$FilePathRelativeToSourcepath$ $FilePath$" />
       <option name="checkSyntaxErrors" value="true" />
       <option name="description" value="Transpiles ECMAScript 6 code to ECMAScript 5" />
-      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="exitCodeBehavior" value="ALWAYS" />
       <option name="fileExtension" value="js" />
       <option name="immediateSync" value="true" />
       <option name="name" value="Babel" />
-      <option name="output" value="ouputput/$FilePathRelativeToSourcepath$:output/$FilePathRelativeToSourcepath$/.map" />
+      <option name="output" value="output/$FilePathRelativeToSourcepath$:output/$FilePathRelativeToSourcepath$/.map" />
       <option name="outputFilters">
         <array />
       </option>
